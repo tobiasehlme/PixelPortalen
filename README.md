@@ -1,4 +1,4 @@
-<picture><img src="https://github.com/anders0b/PixelPortalen/blob/master/PixelPortalen.WebApp/wwwroot/Resources/new-logo.svg" width="500"></picture
+<picture><img src="PixelPortalen.WebApp/wwwroot/Resources/logo_new.svg" width="500"></picture
 ## About
 Our group project from the course Agile Development, where we were tasked with creating an online store for a fictional local game store. During two sprints we achieved the following features:
 - Databases for saving products and events.
@@ -13,7 +13,7 @@ Our group was tasked with the creation of an online presence for a local fiction
 Our project lasted two full sprints, one sprint was one week long. Before the first sprint we had a week of planning and getting to know the group.
 
 ## Team
-- Two .NET-developer students, myself and a classmate
+- Two .NET-developer students, myself and a classmate (@anders0b)
 - Three .NET Cloud-developer students
 - Two Tester students
 - One project lead, also acting as SCRUM Master.
